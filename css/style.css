@@ -1,0 +1,27 @@
+h1{
+	text-align:left;
+	font-size:35px;
+	}
+table,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:20px;
+	}
+th{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:10px;
+	}
+.kings{
+	vertical-align:up;
+	height:20px;
+	}
+section{
+	border:2px solid skyblue;
+	padding:20px;
+	margin:15px;
+	}
+.mariya{
+	background-color:pink;
+	border:1px solid black;
+	}
